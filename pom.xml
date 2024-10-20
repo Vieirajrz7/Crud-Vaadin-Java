@@ -97,7 +97,6 @@
 		<dependency>
 			<groupId>com.vaadin</groupId>
 			<artifactId>collaboration-engine</artifactId>
-			<version>6.3.0</version>
 		</dependency>
 	</dependencies>
 	<dependencyManagement>
